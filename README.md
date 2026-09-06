@@ -1,10 +1,6 @@
 # 💫 About Me:
 🚀 I’m currently working on AWS & DevOps<br>🤝 I’m looking to collaborate on DevOps projects<br>🌱 I’m currently learning Cloud & DevOps<br>💬 Ask me about AWS, Linux & Git<br>⚡ Fun fact: I love learning new things !
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mantasha Sheikh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mantashasheikh2005@gmail.com) 
-
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 # 📊 GitHub Stats:
